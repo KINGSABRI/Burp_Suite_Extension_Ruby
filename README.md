@@ -13,7 +13,7 @@ Due the lake of examples and implementations of Burp Extension using Ruby, I've 
 
 There are couple of news here, one is good and one is bad:
 
-**The good news is**, all written extension whether its written in Java, Ruby, Python are identecally useful resources to you.
+**The good news is**, all written extensions whether its written in Java, Ruby or Python are identecally useful resources to you.
 
 **The Bad news is**, you've to read and understand a *bit* of Java. And that's the key of the good news though ;) 
 
@@ -21,14 +21,15 @@ There are couple of news here, one is good and one is bad:
 
 ## Extensions / Templates
 
-| Extension          | Description                              |
-| ------------------ | ---------------------------------------- |
-| send_alert_pure.rb | Pure implementation of sending messages to Alerts tab |
-| popup_msg_pure.rb  | Pure implementation of popping up a GUI message box |
-| suite_itab_pure.rb | Pure implementation of Suite Tab (ITab)  |
-| editor_tab_pure.rb | Pure implementation of editor tab (beside request & response tabs) |
-| soon               | soon                                     |
-| soon               | soon                                     |
+| Extension            | Description                              |
+| -------------------- | ---------------------------------------- |
+| send_alert_pure.rb   | Pure implementation of sending messages to Alerts tab |
+| popup_msg_pure.rb    | Pure implementation of popping up a GUI message box |
+| suite_itab_pure.rb   | Pure implementation of Suite Tab (ITab)  |
+| editor_tab_pure.rb   | Pure implementation of editor tab (beside request & response tabs) |
+| context_menu_pure.rb | Pure implementation of context menu (Right-click menu) |
+| soon                 | soon                                     |
+| soon                 | soon                                     |
 
 
 
