@@ -21,6 +21,8 @@ There are couple of news here, one is good and one is bad:
 
 ## Extensions / Templates
 
+### Burp GUI 
+
 | Extension            | Description                              |
 | -------------------- | ---------------------------------------- |
 | send_alert_pure.rb   | Pure implementation of sending messages to Alerts tab |
@@ -28,8 +30,18 @@ There are couple of news here, one is good and one is bad:
 | suite_itab_pure.rb   | Pure implementation of Suite Tab (ITab)  |
 | editor_tab_pure.rb   | Pure implementation of editor tab (beside request & response tabs) |
 | context_menu_pure.rb | Pure implementation of context menu (Right-click menu) |
+| suite_itab_subtab.rb | Pure implementation of Suite Tab and sub-tabs (sub-panels) |
 | soon                 | soon                                     |
-| soon                 | soon                                     |
+|                      |                                          |
+|                      |                                          |
+
+### Burp Functionalities 
+
+| Extension | Description |
+| --------- | ----------- |
+| -         | -           |
+| -         | -           |
+| -         | -           |
 
 
 
