@@ -20,6 +20,10 @@ There are couple of news here, one is good and one is bad:
 
 **The Bad news is**, you've to read and understand a *bit* of Java. And that's the key of the good news though ;) 
 
+
+
+**Note:** Some extensions have been supported with animated screenshots for clarity before use.
+
 ---
 
 ## Extensions / Templates
