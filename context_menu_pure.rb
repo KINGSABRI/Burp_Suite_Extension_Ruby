@@ -1,5 +1,6 @@
 #
 # KING SABRI | @KINGSABRI
+# BurpSuite Extension | Pure context menu implementation
 #
 
 # Ruby requires
