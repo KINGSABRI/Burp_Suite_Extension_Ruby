@@ -1,4 +1,7 @@
 # BurpSuite Extension | Ruby Templates
+
+![](burp-ruby.png)
+
 ## What? 
 
 This repository is a collection of templates of Burp Suite Extensions, focusing on [Burp suite API](https://portswigger.net/burp/extender/api/) functionalities and simplifying Java language consuming through JRuby.
