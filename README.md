@@ -31,7 +31,7 @@ There are couple of news here, one is good and one is bad:
 | editor_tab_pure.rb   | Pure implementation of editor tab (beside request & response tabs) |
 | context_menu_pure.rb | Pure implementation of context menu (Right-click menu) |
 | suite_itab_subtab.rb | Pure implementation of Suite Tab and sub-tabs (sub-panels) |
-| soon                 | soon                                     |
+| context_menu_pure.rb | Pure implementation of custom menus and sub-menus with some actions |
 |                      |                                          |
 |                      |                                          |
 
