@@ -62,7 +62,7 @@ All contributions are welcome. You can contribute by
 * Adding more comments 
 * Enhancing the code 
 * Reporting bugs and errors 
-* Requests 
+* Request an extension
 
 ### Start Now 
 
