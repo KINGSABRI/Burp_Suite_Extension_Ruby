@@ -78,4 +78,4 @@ All contributions are welcome. You can contribute by
 ### Resources 
 
 * Customizing Burp Suite - Getting the Most out of Burp Extensions [ [Link](http://www.slideshare.net/AugustDetlefsen/burp-extensions) ]
-* Google dork `burp extension site:github.com`
+* Google dork: `burp extension site:github.com`
