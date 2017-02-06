@@ -39,8 +39,8 @@ There are couple of news here, one is good and one is bad:
 | context_menu_pure.rb | Pure implementation of context menu (Right-click menu) |
 | suite_itab_subtab.rb | Pure implementation of Suite Tab and sub-tabs (sub-panels) |
 | context_menu_pure.rb | Pure implementation of custom menus and sub-menus with some actions |
-|                      |                                          |
-|                      |                                          |
+| tab_tree.rb          | Implementation of tab contains a tree of items |
+| -                    | -                                        |
 
 ### Burp Functionalities 
 
@@ -72,3 +72,10 @@ All contributions are welcome. You can contribute by
 4. contribute 
 5. PR
 
+
+
+
+### Resources 
+
+* Customizing Burp Suite - Getting the Most out of Burp Extensions [ [Link](http://www.slideshare.net/AugustDetlefsen/burp-extensions) ]
+* ​
