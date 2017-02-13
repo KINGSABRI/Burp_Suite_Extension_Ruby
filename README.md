@@ -30,17 +30,18 @@ There are couple of news here, one is good and one is bad:
 
 ### Burp GUI 
 
-| Extension            | Description                              |
-| -------------------- | ---------------------------------------- |
-| send_alert_pure.rb   | Pure implementation of sending messages to Alerts tab |
-| popup_msg_pure.rb    | Pure implementation of popping up a GUI message box |
-| suite_itab_pure.rb   | Pure implementation of Suite Tab (ITab)  |
-| editor_tab_pure.rb   | Pure implementation of editor tab (beside request & response tabs) |
-| context_menu_pure.rb | Pure implementation of context menu (Right-click menu) |
-| suite_itab_subtab.rb | Pure implementation of Suite Tab and sub-tabs (sub-panels) |
-| context_menu_pure.rb | Pure implementation of custom menus and sub-menus with some actions |
-| tab_tree.rb          | Implementation of tab contains a tree of items |
-| -                    | -                                        |
+| Extension                 | Description                              |
+| ------------------------- | ---------------------------------------- |
+| send_alert_pure.rb        | Pure implementation of sending messages to Alerts tab |
+| popup_msg_pure.rb         | Pure implementation of popping up a GUI message box |
+| suite_itab_pure.rb        | Pure implementation of Suite Tab (ITab)  |
+| editor_tab_pure.rb        | Pure implementation of editor tab (beside request & response tabs) |
+| context_menu_pure.rb      | Pure implementation of context menu (Right-click menu) |
+| suite_itab_subtab.rb      | Pure implementation of Suite Tab and sub-tabs (sub-panels) |
+| suite_itab_subtab_icon.rb | Pure implementation of Suite Tab and sub-tabs (sub-panels) with icons |
+| context_menu_pure.rb      | Pure implementation of custom menus and sub-menus with some actions |
+| tab_tree.rb               | Implementation of tab contains a tree of items |
+| -                         | -                                        |
 
 ### Burp Functionalities 
 
