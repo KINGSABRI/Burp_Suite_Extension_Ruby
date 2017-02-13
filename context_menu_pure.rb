@@ -23,6 +23,7 @@ class BurpExtender
   
   attr_reader :callbacks
   
+  
   # IBurpExtender::registerExtenderCallbacks(IBurpExtenderCallbacks callbacks);
   def registerExtenderCallbacks(callbacks)
     @callbacks = callbacks
@@ -61,17 +62,4 @@ class BurpExtender
   end
 
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
 
